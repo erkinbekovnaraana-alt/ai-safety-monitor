@@ -1,4 +1,1 @@
-streamlit
-numpy==1.26.4
-pillow
-ultralytics
+opencv-python-headless  # вместо opencv-python
