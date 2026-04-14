@@ -21,10 +21,6 @@ Real-time dangerous situation detection system using YOLO deep learning.
 - Adjustable confidence threshold
 - Instant alerts for dangerous situations
 
-## 🚀 Live Demo
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
-
 ## 📦 Installation
 
 ```bash
