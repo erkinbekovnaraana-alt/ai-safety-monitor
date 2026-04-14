@@ -2,19 +2,28 @@
 
 Real-time dangerous situation detection system using YOLO deep learning.
 
-## Features
+## 🛠️ Tech Stack
 
-- 🔍 Real-time weapon and dangerous object detection
-- 👤 Person detection with hand zone analysis
-- 📸 Image upload and analysis
-- 🎥 Video file processing
-- 📹 Live webcam monitoring
-- ⚙️ Adjustable confidence threshold
-- 🚨 Instant alerts for dangerous situations
+- **Language:** Python 3.8+
+- **Framework:** Streamlit
+- **AI/ML:** YOLOv8 (Ultralytics)
+- **Computer Vision:** OpenCV
+- **Image Processing:** NumPy, Pillow
+- **Deep Learning:** PyTorch
+
+## ✨ Features
+
+- Real-time weapon and dangerous object detection
+- Person detection with hand zone analysis
+- Image upload and analysis
+- Video file processing
+- Live webcam monitoring
+- Adjustable confidence threshold
+- Instant alerts for dangerous situations
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
 
 ## 📦 Installation
 
