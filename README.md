@@ -21,6 +21,8 @@ Real-time dangerous situation detection system using YOLO deep learning.
 - Adjustable confidence threshold
 - Instant alerts for dangerous situations
 
+site: https://ai-safety-monitor-jkbbvay96xv5gkviywpobm.streamlit.app/
+
 ## 📦 Installation
 
 ```bash
