@@ -1,11 +1,7 @@
 import streamlit as st
 import os
 os.environ['OPENCV_IO_ENABLE_OPENEXR'] = '1'
-try:
-    import cv2
-except:
-    import os
-    os.system("apt-get update && apt-get install -y libgl1")
+import
 import numpy as np
 from ultralytics import YOLO
 from PIL import Image
