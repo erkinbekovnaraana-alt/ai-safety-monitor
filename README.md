@@ -20,3 +20,4 @@ Real-time dangerous situation detection system using YOLO deep learning.
 - Live webcam monitoring
 - Adjustable confidence threshold
 - Instant alerts for dangerous situations
+- https://ai-safety-monitor-jkbbvay96xv5gkviywpobm.streamlit.app/
