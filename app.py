@@ -6,7 +6,6 @@ try:
 except:
     import os
     os.system("apt-get update && apt-get install -y libgl1")
-    import cv2
 import numpy as np
 from ultralytics import YOLO
 from PIL import Image
